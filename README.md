@@ -20,8 +20,8 @@ End the program
 ```
 """
 To write a python program for copying the contents from one file to another file.
-Developed by: MIDHUN S 
-Reference no: 23003250
+Developed by: SUNIL KUMAR T 
+Reference no: 23001650
 """
 a=open("myfile.txt","r")
 b=open("file20.txt","w")
@@ -30,7 +30,7 @@ g=b.write(f)
 ```
 
 ### OUTPUT:
-![output](/Screenshot%202023-07-25%20025237.jpg)
+![output](/Screenshot%202023-07-26%20082219.jpg)
 i)TEXT FILE
 ![output](/Screenshot%202023-07-25%20020631.jpg)
 ii)COPY FILE
